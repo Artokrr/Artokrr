@@ -1,7 +1,7 @@
 - 🌱 Java backend developer with 2 years experience
 * 📫 How to reach me:
-  - d
-  - d
+  - [tg](https://t.me/artkorre)
+  - sungczhilung@gmail.com
 
 <!--
 **Artokrr/Artokrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
