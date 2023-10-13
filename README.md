@@ -1,4 +1,19 @@
-- 🌱 Java backend developer with 2 years experience
+# [My CV](https://github.com/Artokrr/Artokrr/files/12892985/cv_artemfrolov.pdf)
+
+- 🌱 Experienced Java developer with 1 year of work experience. Specialized in Backend development with Java and Spring Framework
+
+* Key Skills:
+
+  - Java
+  - Spring
+  - Hibernate
+  - SQL/NoSQL
+  
+* Secondary Skills:
+  - Linux
+  - JavaScript
+  - Node.js
+  - Python
 * 📫 How to reach me:
   - [tg](https://t.me/artkorre)
   - sungczhilung@gmail.com
@@ -16,3 +31,4 @@ Here are some ideas to get you started:
 
 
 -->
+
