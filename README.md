@@ -10,6 +10,7 @@
   - Hibernate
   - Kafka
   - Docker
+  - Redis
   - Prometheus, Grafana
   - Kubernetes
   - SQL/NoSQL
