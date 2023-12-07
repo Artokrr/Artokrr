@@ -8,6 +8,10 @@
   - Java
   - Spring
   - Hibernate
+  - Kafka
+  - Docker
+  - Prometheus, Grafana
+  - Kubernetes
   - SQL/NoSQL
   
 * Secondary Skills:
