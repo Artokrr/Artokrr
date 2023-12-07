@@ -1,6 +1,6 @@
 # [My CV](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
 
-- 🌱 Experienced Java developer with 1 year of work experience. Specialized in Backend development with Java and Spring Framework
+- 🌱 Experienced Java developer with 3 years of work experience. Specialized in Backend development with Java and Spring Framework
 
 * Key Skills:
 
