@@ -3,6 +3,9 @@
 - 🌱 Experienced Java developer with 3 years of work experience. Specialized in Backend development with Java and Spring Framework
 - 🤖 Most of the time I'm writing on Java and Python. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
+
+** 📫 How to reach me:
+- [telegram](https://t.me/artkorre)
 - ✉️ You can shoot me an email at artem.vic.frolov@mail.ru.
   
 [My CV](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
@@ -38,8 +41,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-* 📫 How to reach me:
-  - [tg](https://t.me/artkorre)
+
+  
   
 
 <!--
