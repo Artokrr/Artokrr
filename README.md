@@ -1,10 +1,12 @@
+# Hi there 👋 I'm Artem
+
 # [My CV](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
 
 - 🌱 Experienced Java developer with 3 years of work experience. Specialized in Backend development with Java and Spring Framework
 
 * Key Skills:
 
-![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   - Java
   - Spring
   - Hibernate
