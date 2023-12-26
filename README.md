@@ -4,9 +4,9 @@
 - 🤖 Most of the time I'm writing on Java and Python. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 
-** 📫 How to reach me:
-- [telegram](https://t.me/artkorre)
-- ✉️ You can shoot me an email at artem.vic.frolov@mail.ru.
+## 📫 How to reach me:
+- ✉️ Preferably text me in [Telegram](https://t.me/artkorre)
+- 📧 You can shoot me an email at artem.vic.frolov@mail.ru.
   
 [My CV](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
 
