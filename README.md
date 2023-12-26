@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Artem
-- 🇩🇪 I live in Russia, Moscow.
+- 🇷🇺 I live in Russia, Moscow.
 - 🌱 Experienced Java developer with 3 years of work experience. Specialized in Backend development with Java and Spring Framework
 - 🤖 Most of the time I'm writing on Java and Python. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
