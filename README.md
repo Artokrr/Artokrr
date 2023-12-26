@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Artem
 - 🇩🇪 I live in Russia, Moscow.
-- 🐍 I'm an engineer at Parity Technologies.
-- 🤖 Most of the time I'm writing on Python and Go. Sometimes JavaScript.
+- 🌱 Experienced Java developer with 3 years of work experience. Specialized in Backend development with Java and Spring Framework
+- 🤖 Most of the time I'm writing on Java and Python. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✏️ I write articles on my blog (in Russian): vas3k.ru.
 - ✉️ You can shoot me an email at artem.vic.frolov@mail.ru.
+  
 [My CV](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
 
-- 🌱 Experienced Java developer with 3 years of work experience. Specialized in Backend development with Java and Spring Framework
+
 
 * Key Skills:
 
