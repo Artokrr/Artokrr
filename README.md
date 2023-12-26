@@ -8,7 +8,7 @@
 - ✉️ Preferably text me in [Telegram](https://t.me/artkorre)
 - 📧 You can shoot me an email at artem.vic.frolov@mail.ru
   
-My CV: [Artem_Frolov.pdf](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
+#### My CV: [Artem_Frolov.pdf](https://github.com/Artokrr/Artokrr/files/13530141/ArtemFrolovResume.1.pdf)
 
 
 
