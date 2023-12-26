@@ -45,7 +45,8 @@ My CV: [Artem_Frolov.pdf](https://github.com/Artokrr/Artokrr/files/13530141/Arte
 
   
 ## 🤝 Connect with me
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartkorre)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artkorre)
+
 
 <!--
 **Artokrr/Artokrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
