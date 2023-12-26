@@ -38,12 +38,14 @@ My CV: [Artem_Frolov.pdf](https://github.com/Artokrr/Artokrr/files/13530141/Arte
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   
 * Secondary Skills:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   
-  
+## 🤝 Connect with me
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fartkorre)
 
 <!--
 **Artokrr/Artokrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
