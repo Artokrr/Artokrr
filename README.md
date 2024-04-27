@@ -1,4 +1,3 @@
-# Hi there 👋 I'm Artem
 
 ## 📫 How to reach me:
 - ✉️ Preferably text me in [Telegram](https://t.me/artkorre)
