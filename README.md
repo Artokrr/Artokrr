@@ -1,7 +1,7 @@
 
 ## 📫 How to reach me:
 - ✉️ Preferably text me in [Telegram](https://t.me/artkorre)
-- 📧 You can shoot me an email at artem.vic.frolov@mail.ru
+- 📧 You can shoot me an email at frolov.artem@proton.me
   
 
 
