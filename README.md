@@ -44,7 +44,7 @@
 ## 🤝 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artkorre)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artokrr/)
-[![Mail](https://img.shields.io/badge/ARTEM.VIC.FROLOV%40MAIL.RU-red?style=for-the-badge&logo=mail.ru)](mailto:frolov.artem@proton.me)
+[![Mail](https://img.shields.io/badge/FROLOV.ARTEM%40PROTON.ME-red?style=for-the-badge&logo=mail.ru)](mailto:frolov.artem@proton.me)
 
   
 
