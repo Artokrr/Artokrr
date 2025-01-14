@@ -45,6 +45,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artkorre)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artokrr/)
 [![Mail](https://img.shields.io/badge/FROLOV.ARTEM%40PROTON.ME-white?style=for-the-badge&logo=protonmail)](mailto:frolov.artem@proton.me)
+[![My CV](https://drive.google.com/file/d/1ubCEw-B_1_JbAgRPK9vShUn7lOgCoW3R/view?usp=sharing)
 
   
 
