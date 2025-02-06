@@ -3,7 +3,7 @@
 ## 📫 How to reach me:
 - ✉️ Preferably text me in [Telegram](https://t.me/artkorre)
 - 📧 You can shoot me an email at frolov.artem@proton.me
-- [My CV]([https://drive.google.com/file/d/1ubCEw-B_1_JbAgRPK9vShUn7lOgCoW3R/view?usp=sharing](https://drive.google.com/drive/folders/1xX2zM98fM6u2q1j0hEI7lUjPOeZ6mtM7?usp=sharing))
+- [My CV](https://drive.google.com/drive/folders/1xX2zM98fM6u2q1j0hEI7lUjPOeZ6mtM7?usp=sharing)
   
 <!-- #### My CV: [Artem_Frolov.pdf](https://github.com/Artokrr/Artokrr/blob/main/ArtemFrolovResume-.pdf) --->
 
