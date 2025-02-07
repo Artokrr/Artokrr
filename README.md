@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Artem
+<span style="font-family: 'Courier New', monospace;">Этот текст будет в другом шрифте</span>
 
 ## 📫 How to reach me:
 - ✉️ Preferably text me in [Telegram](https://t.me/artkorre)
